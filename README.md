@@ -61,6 +61,10 @@ Phase 3. Model & Model Evaluation
 • I hope to build more novel sports analytics data solutions like this one in exciting upcoming projects!  
 
 
+
+
+
+
       
 👤 Author  
 Eric Rumsfeld  
